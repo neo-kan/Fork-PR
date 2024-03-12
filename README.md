@@ -23,3 +23,4 @@
 - https://github.com/dominmd-ucam
 - https://github.com/Xiaotian34
 - https://github.com/joathan99
+- Nicolás Sánchez López
